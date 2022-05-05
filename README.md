@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nandkumar-sawant
-- 👀 I’m interested in Data science, Data/Business analytics
-- 🌱 I’m currently learning Data science
+- 👀 I’m interested in Data/Business analytics
 - 📫 How to reach me- mail- nandkumarsawant839@gmail.com
 
 <!---
